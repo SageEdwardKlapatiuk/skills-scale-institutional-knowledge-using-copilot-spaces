@@ -4,6 +4,93 @@ This document defines typical roles and responsibilities used in OctoAcme projec
 
 ---
 
+## UX/UI Designer
+
+### Role Summary
+Designs intuitive user interfaces and crafts memorable user experiences. Works cross-functionally to ensure usability and brand consistency in delivered features.
+
+### Responsibilities
+- Design user flows, wireframes, mockups, and prototypes.
+- Conduct user research and usability testing.
+- Provide specs/assets to development teams.
+- Ensure design consistency and accessibility standards.
+- Iterate on designs based on feedback.
+
+### Goals
+- Improve customer satisfaction and usability metrics.
+- Enhance product accessibility and visual appeal.
+- Reduce rework by clarifying design early.
+
+### Typical Communication
+- Design critiques and sprint demos.
+- Direct async collaboration with developers and PMs.
+- Sharing design documentation and user feedback.
+
+---
+
+## Business Analyst
+
+### Role Summary
+Bridges business goals and technical solutions by translating needs into clear requirements. Validates that project deliverables align with objectives.
+
+### Responsibilities
+- Gather and analyze business and user requirements.
+- Write clear, actionable user stories and specifications.
+- Validate that solutions meet business needs.
+- Run process mapping and gap analysis sessions.
+
+### Goals
+- Ensure product features align with business value.
+- Minimize requirement gaps and scope changes.
+
+### Typical Communication
+- Requirements workshops with stakeholders.
+- Documentation reviews and acceptance test case reviews.
+- Ongoing alignment with Product Manager and Project Manager.
+
+---
+
+## Release Manager
+
+### Role Summary
+Owns coordination, scheduling, and communication of software releases. Ensures each release is production-ready, compliant, and communicated.
+
+### Responsibilities
+- Plan and coordinate release schedules and deadlines.
+- Run release readiness and go/no-go meetings.
+- Maintain checklists for release and rollback procedures.
+- Communicate release status to stakeholders.
+
+### Goals
+- Enable predictable, low-risk releases.
+- Increase transparency and coordination across teams.
+
+### Typical Communication
+- Release planning syncs with QA, Dev, PM, and Support.
+- Written release notes and deployment status updates.
+
+---
+
+## Security/Compliance Lead
+
+### Role Summary
+Champions best practices for security and regulatory compliance throughout the project lifecycle.
+
+### Responsibilities
+- Conducts risk assessments and security reviews.
+- Ensures legal/regulatory standards are applied.
+- Guides secure development/operations practices.
+- Coordinates response to security incidents.
+
+### Goals
+- Ensure compliance with policies and external requirements.
+- Minimize risk of security breaches or data leaks.
+
+### Typical Communication
+- Security review workshops.
+- Incident communications.
+- Documentation of controls, risk register updates.
+
 ## Developers
 
 ### Role Summary
